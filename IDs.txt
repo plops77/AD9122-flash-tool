@@ -1,0 +1,2 @@
+idVendor: 0x0456
+idProduct: 0x7024
