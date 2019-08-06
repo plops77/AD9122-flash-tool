@@ -1,4 +1,4 @@
-# AD9122-flash-tool
+# AD9122 evaluation board flash-tool
 PyEVO_Set.py - AD9122 Evaluation board flasher instead of standard, LabView based.
 
 PyEVO_Sort.py - parses usb packets (raw.txt) to create flasher input file (sorted.txt).
